@@ -1,0 +1,1 @@
+one_hot_encoded_training_predictors = pd.get_dummies(train_predictors)
